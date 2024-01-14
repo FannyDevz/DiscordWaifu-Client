@@ -1,0 +1,25 @@
+{
+  "name": "waifuseum",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port 1234",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "prettier -w ."
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.1.1",
+    "@nuxtjs/robots": "^3.0.0",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18.17.0",
+    "@vueuse/core": "^10.2.1",
+    "@vueuse/motion": "^2.0.0",
+    "@vueuse/nuxt": "^10.2.1",
+    "ismobilejs": "^1.1.1",
+    "nanoid": "^4.0.2",
+    "nuxt": "^3.6.5",
+    "prettier": "^3.0.0",
+    "vue3-lazyload": "^0.3.6"
+  }
+}
